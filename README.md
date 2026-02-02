@@ -1,13 +1,14 @@
 ## 👋 Hi! I'm **Sushant Paikrao**
 ---
 
-👀 I am passionate about building clean, scalable, and high-performance user interfaces that deliver real business value.
 
-👨‍💻 Experienced Frontend Developer specializing in React.js, with a strong background in enterprise-scale and product-based applications.
+👀 I am passionate about building **clean**, **scalable**, and **high-performance** user interfaces that deliver real business value.
 
-🔭 Currently focused on robust frontend architectures, performance optimization, and reusable UI systems for large-scale applications.
+👨‍💻 Experienced **Frontend Developer** specializing in **React.js**, with a strong background in **enterprise-scale** and **product-based applications**.
 
-🚀 Strong interest in frontend system design, micro-frontend architecture, modern UI engineering practices, and high-performance web applications.
+🔭 Currently focused on **robust frontend architectures**, **performance optimization**, and **reusable UI systems** for **large-scale applications**.
+
+🚀 Strong interest in **frontend system design**, **micro-frontend architecture**, **modern UI engineering practices**, and **high-performance web applications**.
 
 ---
 
