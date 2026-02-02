@@ -3,7 +3,7 @@
 
 👀 I am passionate about building clean, scalable, and high-performance user interfaces that deliver real business value.
 
-👨‍💻 I have **8+ years of experience** working as a Frontend Developer, primarily with **React.js**, contributing to enterprise-scale and product-based applications.
+👨‍💻 Experienced Frontend Developer specializing in React.js, with a strong background in enterprise-scale and product-based applications.
 
 🔭 Currently, I am focused on developing robust frontend architectures, optimizing performance, and building reusable UI systems for large-scale applications.
 
