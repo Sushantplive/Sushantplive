@@ -29,7 +29,7 @@ Next.js · Node.js · SCSS · Tailwind CSS · Webpack · Jest · Agile / Scrum
 
 😄 **Pronouns:** he / him  
 
-⚡ **Fun fact:** I enjoy simplifying complex UI problems and believe the best frontend solutions are the ones users never have to think about 😄
+⚡ **Fun fact:** When I'm not engineering interfaces, you'll find me geeking out over Marvel Cinematic Universe blockbusters 📽️ or reliving the charm of 90s Shah Rukh Khan classics. 🎬
 
 ---
 💡 **I have also worked with**
@@ -67,4 +67,8 @@ Next.js · Node.js · SCSS · Tailwind CSS · Webpack · Jest · Agile / Scrum
 
 🤝 Want to learn more? Feel free to explore my repositories or connect with me!
 
+
+
 **Thank you for visiting my profile 👋**
+
+![Profile Views](https://komarev.com/ghpvc/?username=SushantDevP&label=GitHub%20Profile%20Views&color=blue&style=flat)
