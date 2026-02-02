@@ -22,7 +22,7 @@ Next.js · Node.js · SCSS · Tailwind CSS · Webpack · Jest · Agile / Scrum
 ---
 
 📫 **How to reach me:**  
-📧 Email: sushant.paikrao.dev@gmail.com 
+📧 Email: sushant.paikarao.dev@gmail.com 
 
 ---
 
