@@ -5,9 +5,9 @@
 
 👨‍💻 Experienced Frontend Developer specializing in React.js, with a strong background in enterprise-scale and product-based applications.
 
-🔭 Currently, I am focused on developing robust frontend architectures, optimizing performance, and building reusable UI systems for large-scale applications.
+🔭 Currently focused on robust frontend architectures, performance optimization, and reusable UI systems for large-scale applications.
 
-🚀 I am particularly interested in **frontend system design, micro-frontend architecture, performance optimization**, and modern UI engineering practices.
+🚀 Strong interest in frontend system design, micro-frontend architecture, modern UI engineering practices, and high-performance web applications.
 
 ---
 
