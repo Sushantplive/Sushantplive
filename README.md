@@ -1,4 +1,4 @@
-## 👋 Hi! I'm **Sushant Paikrao**
+## 👋 Hi! I'm **Sushant Paikarao**
 ---
 
 
